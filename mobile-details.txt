@@ -1,0 +1,176 @@
+Phone: iPhone 15 Pro
+
+Brand: Apple
+Price: ₹1,34,900
+Processor: A17 Pro
+RAM: 8GB
+Storage: 128GB, 256GB, 512GB, 1TB
+Display: 6.1-inch Super Retina XDR OLED, 120Hz
+Battery: 3274mAh
+Camera:
+- 48MP Main
+- 12MP Ultra Wide
+- 12MP Telephoto
+
+Features:
+- Titanium body
+- USB Type-C
+- Dynamic Island
+- Face ID
+- Excellent video recording
+
+Best For:
+- Video creators
+- Premium users
+- Photography
+- Gaming
+
+Pros:
+- Excellent performance
+- Great camera quality
+- Long software support
+
+Cons:
+- Expensive
+- Slow charging
+
+
+Phone: Samsung Galaxy S24 Ultra
+
+Brand: Samsung
+Price: ₹1,29,999
+Processor: Snapdragon 8 Gen 3
+RAM: 12GB
+Storage: 256GB, 512GB, 1TB
+Display: 6.8-inch Dynamic AMOLED 2X, 120Hz
+Battery: 5000mAh
+Camera:
+- 200MP Main
+- 50MP Periscope
+- 12MP Ultra Wide
+- 10MP Telephoto
+
+Features:
+- S Pen support
+- AI photo editing
+- 100x Space Zoom
+- Gorilla Armor protection
+
+Best For:
+- Productivity
+- Camera lovers
+- Gaming
+- Battery life
+
+Pros:
+- Massive battery
+- Excellent zoom camera
+- Bright display
+
+Cons:
+- Heavy
+- Expensive
+
+
+Phone: OnePlus 12
+
+Brand: OnePlus
+Price: ₹64,999
+Processor: Snapdragon 8 Gen 3
+RAM: 12GB / 16GB
+Storage: 256GB / 512GB
+Display: 6.82-inch AMOLED, 120Hz
+Battery: 5400mAh
+Charging: 100W fast charging
+Camera:
+- 50MP Sony LYT-808
+- 64MP Periscope
+- 48MP Ultra Wide
+
+Features:
+- OxygenOS
+- Fast charging
+- Gaming optimization
+
+Best For:
+- Gaming
+- Fast charging
+- Performance users
+
+Pros:
+- Excellent performance
+- Super fast charging
+- Smooth UI
+
+Cons:
+- Camera inconsistent sometimes
+- Curved display not liked by everyone
+
+
+Phone: Nothing Phone 2
+
+Brand: Nothing
+Price: ₹44,999
+Processor: Snapdragon 8+ Gen 1
+RAM: 8GB / 12GB
+Storage: 128GB / 256GB
+Display: 6.7-inch OLED, 120Hz
+Battery: 4700mAh
+Camera:
+- 50MP Main
+- 50MP Ultra Wide
+
+Features:
+- Glyph Interface
+- Clean Android UI
+- Unique transparent design
+
+Best For:
+- Design lovers
+- Clean Android fans
+- Daily usage
+
+Pros:
+- Unique design
+- Smooth software
+- Good display
+
+Cons:
+- Camera average
+- Older flagship processor
+
+
+Phone: Redmi Note 13 Pro+
+
+Brand: Xiaomi
+Price: ₹31,999
+Processor: MediaTek Dimensity 7200 Ultra
+RAM: 8GB / 12GB
+Storage: 256GB
+Display: 1.5K AMOLED, 120Hz
+Battery: 5000mAh
+Charging: 120W HyperCharge
+
+Camera:
+- 200MP Main
+- 8MP Ultra Wide
+- 2MP Macro
+
+Features:
+- Curved display
+- IP68 water resistance
+- Fast charging
+
+Best For:
+- Budget camera users
+- Multimedia
+- Fast charging
+
+Pros:
+- Excellent charging speed
+- Good display
+- High-resolution camera
+
+Cons:
+- Bloatware
+- Average gaming performance
